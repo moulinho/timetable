@@ -1,0 +1,28 @@
+.h {
+  font-weight: bold;
+}
+#h1 {
+  margin: 0 10px;
+}
+#h2 {
+  margin: 0 7px;
+}
+#sex {
+  margin-left: 34px;
+}
+.myform {
+  width: 670px;
+  margin: 60px auto;
+  background: url("../img/T.jpg") no-repeat 400px 140px;
+  background-size: 200px;
+}
+
+.bloc_choix {
+  margin: 0 4px;
+}
+#btnSend {
+  transform: translateX(217px);
+  margin: 20px 0;
+  width: 140px;
+  font-weight: 600;
+}
